@@ -21,16 +21,20 @@ En esta sesión abordaremos los elementos fundamentales para comprender en qué 
 
 
  ## Conceptos generales sobre mutualismo
-A lo largo de la sesión se abordan los siguientes tópicos, que se muestran con detalle en este mapa mental. Dicho mapa puede visualizarse de manera dinámica en esta página. 
+A lo largo de la sesión se abordan los siguientes tópicos, que se muestran con detalle en [este](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/presentacion/Mutualismo.xmind) mapa mental. Dicho mapa puede visualizarse de manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_mutualismo_ecologia_ccaa/presentacion/Mutualismo.html) página e incrustado más abajo:
+
++ Definición de mutualismo.
++ Origen evolutivo del mutualismo. La importancia de esta interacción en la evolución es tan importante que hablar de su origen es, en realidad, hablar del origen de la vida misma.
++ De lo anterior se deriva la descomunal importancia que tiene este tipo de interacción en los ecosistemas. Sin mutualismo seguramente la vida en la Tierra tendría una estructura completamente diferente.
++ Tipos de mutualismo. Distinguiremos entre aquellos que son simbióticos (hay coexistencia física entre las especies que interaactúan) y los que no lo son.
 
 
 
+<iframe
+  src="https://aprendiendo-cosas.github.io/Te_mutualismo_ecologia_ccaa/presentacion/Mutualismo.html"
+  style="width:100%; height:450px;"
+></iframe>
 
 
 ## Vídeo de la sesión
-
-Aquí puedes ver el vídeo de esta sesión.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/REp3I6VuPOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
