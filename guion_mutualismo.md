@@ -4,8 +4,10 @@
 > + **_Versión_**: 2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 30 minutos.
-![portada]()
+> + **Duración**: Aproximadamente 40 minutos.
+
+<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:250%;" />
+
 
 
 ## Objetivos 
