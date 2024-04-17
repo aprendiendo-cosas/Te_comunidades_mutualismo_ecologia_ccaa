@@ -38,3 +38,17 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esque
 ></iframe>
 
 
+
+
+## Pregunta "bisagra"
+
+Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
+
+En esta ocasión, la pregunta bisagra combina los distintos tipos de relaciones que hay en las comunidades ecológicas:
+
+>En este ejercicio debes de comparar la competencia intraespecífica, la interespecífica, la depredación y el mutualismo en función del efecto que tienen estas interacciones en el crecimiento de las poblaciones y en el funcionamiento de las comunidades. Para simplificar un poco, pensaremos en términos de interacciones competitivas e interacciones cooperativas. En este sentido, la pregunta que queremos responder es: ¿qué tipo de interacciones son más importantes en una comunidad ecológica, las cooperativas o las competitivas? 
+>
+>
+
+
+
