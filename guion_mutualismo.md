@@ -30,13 +30,22 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esque
 + De lo anterior se deriva la descomunal importancia que tiene este tipo de interacción en los ecosistemas. Sin mutualismo seguramente la vida en la Tierra tendría una estructura completamente diferente.
 + Tipos de mutualismo. Distinguiremos entre aquellos que son simbióticos (hay coexistencia física entre las especies que interactúan) y los que no lo son.
 
-## Pregunta bisagra
-Importancia relativa de las distintas interacciones que hemos visto. Relación de las mismas con los mecanismos de regulación del tamaño poblacional
-
 <iframe
   src="https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/main/presentacion/Mutualismo.html"
   style="width:100%; height:450px;"
 ></iframe>
+
+
+## Pregunta bisagra
+
+Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
+
+En esta ocasión, planteamos la siguiente pregunta:
+
+>¿Qué impacto tienen las distintas interacciones que hemos visto en el crecimiento de las poblaciones de las especies afectadas? ¿cuál de estas relaciones tiene un efecto más importante (a priori) en la estabilización del tamaño poblacional?, ¿Cuál de estas relaciones crees que es más importante?
+
+
+
 
 
 
