@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 40 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:90%;" />
 
 
 
