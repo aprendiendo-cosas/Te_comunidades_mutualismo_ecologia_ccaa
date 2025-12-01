@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 40 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/2025_2026/imagenes/portada.jpg" alt="portada" style="zoom:90%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/raw/2025-2026/imagenes/portada.jpg" alt="portada" style="zoom:90%;" />
 
 
 
@@ -23,7 +23,7 @@ En esta sesión abordaremos los elementos fundamentales para comprender en qué 
 
 
  ## Conceptos generales sobre mutualismo
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esquema, que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/2025_2026/presentacion/Mutualismo.xmind) y ver de manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2025_2026/presentacion/Mutualismo.html) página:
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esquema, que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/raw/2025-2026/presentacion/Mutualismo.xmind) y ver de manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/2025-2026/presentacion/Mutualismo.html) página:
 
 + Definición de mutualismo.
 + Origen evolutivo del mutualismo. La importancia de esta interacción en la evolución es tan importante que hablar de su origen es, en realidad, hablar del origen de la vida misma.
@@ -31,15 +31,16 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esque
 + Tipos de mutualismo. Distinguiremos entre aquellos que son simbióticos (hay coexistencia física entre las especies que interactúan) y los que no lo son.
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2025_2026/presentacion/Mutualismo.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2025-2026/presentacion/Mutualismo.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
 
+
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
