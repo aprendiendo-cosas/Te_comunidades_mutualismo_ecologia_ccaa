@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 40 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:90%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/2025_2026/imagenes/portada.jpg" alt="portada" style="zoom:90%;" />
 
 
 
@@ -14,16 +14,16 @@
 
 En esta sesión abordaremos los elementos fundamentales para comprender en qué consiste el tipo de interacción denominada "mutualismo", así como su importancia en el ensamblaje de las comunidades ecológicas. Los objetivos más concretos son:
 
- + Definición del concepto de mutualismo como un tipo de interacción entre especies que constituyen una comunidad.
++ Definición del concepto de mutualismo como un tipo de interacción entre especies que constituyen una comunidad.
 
- + Establecer paralelismos entre el mutualismo y otras interacciones en las que uno de los agentes sale perjudicado (competencia o depredación).
++ Establecer paralelismos entre el mutualismo y otras interacciones en las que uno de los agentes sale perjudicado (competencia o depredación).
 
- + Conocer la importancia que ha tenido (y tiene) el mutualismo en la evolución biológica.
++ Conocer la importancia que ha tenido (y tiene) el mutualismo en la evolución biológica.
 
 
 
  ## Conceptos generales sobre mutualismo
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esquema, que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/presentacion/Mutualismo.xmind) y ver de manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/main/presentacion/Mutualismo.html) página:
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esquema, que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/2025_2026/presentacion/Mutualismo.xmind) y ver de manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2025_2026/presentacion/Mutualismo.html) página:
 
 + Definición de mutualismo.
 + Origen evolutivo del mutualismo. La importancia de esta interacción en la evolución es tan importante que hablar de su origen es, en realidad, hablar del origen de la vida misma.
@@ -31,27 +31,15 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente esque
 + Tipos de mutualismo. Distinguiremos entre aquellos que son simbióticos (hay coexistencia física entre las especies que interactúan) y los que no lo son.
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/main/presentacion/Mutualismo.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2025_2026/presentacion/Mutualismo.html"
   style="width:100%; height:450px;"
 ></iframe>
-
-
-## Pregunta bisagra
-
-Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
-
-En esta ocasión, planteamos la siguiente pregunta:
-
->¿Qué impacto tienen las distintas interacciones que hemos visto en el crecimiento de las poblaciones de las especies afectadas? ¿cuál de estas relaciones tiene un efecto más importante (a priori) en la estabilización del tamaño poblacional?, ¿Cuál de estas relaciones crees que es más importante?
-
-
-
 
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_mutualismo_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
